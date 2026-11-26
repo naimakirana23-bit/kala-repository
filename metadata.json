@@ -1,0 +1,6 @@
+{
+  "name": "Pustaka Lentera",
+  "description": "Perpustakaan digital minimalis dengan katalog buku, rekomendasi bacaan, peminjaman dan pengembalian buku, portal anggota, serta ulasan komunitas ala Goodreads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
